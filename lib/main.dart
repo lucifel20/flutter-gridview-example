@@ -57,7 +57,7 @@ class HomeRoute extends StatelessWidget {
                   },
                 ), // GridView.builder
               ), // Container()
-            ], // <Widget>[]
+            ], // List<Widget>[]
           ), // Column()
         ), // SingleChildScrollView()
       ), // SafeArea()
